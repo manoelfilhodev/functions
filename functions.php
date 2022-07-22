@@ -3,6 +3,12 @@ session_start();
 include "../_conexao/connect.php";
 include "../_conexao/config.php";
 
+function TestantaVersao(){
+
+    echo "Testei a versão";
+}
+
+
 function MsgReturn(String $msg, $type, $local)
 {
 $a = $type;
