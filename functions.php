@@ -8,6 +8,7 @@ function TestantaVersao(){
     echo "Testei a versão";
 }
 
+
 function MsgReturn(String $msg, $type, $local)
 {
 $a = $type;
