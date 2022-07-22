@@ -1,0 +1,17 @@
+{
+    "name": "manoelfilho/functions",
+    "description": "Main functions used for the development of applications in PHP by the developer Manoel Filho",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manoelfilho\\Functions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manoel Filho",
+            "email": "manoel.filho.mf@icloud.com"
+        }
+    ],
+    "require": {}
+}
